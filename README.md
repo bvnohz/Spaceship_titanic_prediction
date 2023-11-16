@@ -1,6 +1,6 @@
-# Spaceship_titanic_prediction
+## Spaceship_titanic_prediction
 
-## 🛳️ Spaceship Titanic
+### 🛳️ Spaceship Titanic
 
 
 Predict which passengers are transported to an alternate dimension.
